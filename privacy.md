@@ -1,4 +1,5 @@
-# Privacy Policy
+- Hong Kong (Personal Data (Privacy) Ordinance), Macau (Personal Data Protection Act) and Taiwan (Personal Data Protection Act): you may access and correct the information we hold about you and ask us to stop using it.
+- Brazil (LGPD), Canada (PIPEDA and Québec Law 25), Switzerland (FADP), Japan (APPI), South Korea (PIPA), India (DPDP Act 2023), Indonesia (PDP Law), Vietnam (Personal Data Protection Law), Thailand (PDPA), Malaysia (PDPA), the Philippines (Data Privacy Act), Singapore (PDPA), Australia (Privacy Act), New Zealand (Privacy Act 2020), Nigeria (NDPA 2023), South Africa (POPIA), Kenya (Data Protection Act), Saudi Arabia (PDPL), the United Arab Emirates (PDPL), Türkiye (KVKK), Israel (Privacy Protection Law), Mexico (LFPDPPP), Argentina (Law 25,326) and other laws: you have the rights those laws give you, and we will honour them for the information we hold.# Privacy Policy
 
 _Effective 3 November 2026. Your journal stays on your device or in your own cloud. We don’t receive it._
 
