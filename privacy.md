@@ -1,7 +1,6 @@
-- Hong Kong (Personal Data (Privacy) Ordinance), Macau (Personal Data Protection Act) and Taiwan (Personal Data Protection Act): you may access and correct the information we hold about you and ask us to stop using it.
-- Brazil (LGPD), Canada (PIPEDA and Québec Law 25), Switzerland (FADP), Japan (APPI), South Korea (PIPA), India (DPDP Act 2023), Indonesia (PDP Law), Vietnam (Personal Data Protection Law), Thailand (PDPA), Malaysia (PDPA), the Philippines (Data Privacy Act), Singapore (PDPA), Australia (Privacy Act), New Zealand (Privacy Act 2020), Nigeria (NDPA 2023), South Africa (POPIA), Kenya (Data Protection Act), Saudi Arabia (PDPL), the United Arab Emirates (PDPL), Türkiye (KVKK), Israel (Privacy Protection Law), Mexico (LFPDPPP), Argentina (Law 25,326) and other laws: you have the rights those laws give you, and we will honour them for the information we hold.# Privacy Policy
+# Privacy Policy
 
-_Effective 3 November 2026. Your journal stays on your device or in your own cloud. We don’t receive it._
+_Effective 4 November 2026. Your journal stays on your device or in your own cloud. We don’t receive it._
 
 This Privacy Policy explains how the Dawnslate app handles information, and how Eyinsan Odugba (“we”, “us”, “our”) handles the little information we do receive. It applies to the app and to messages you send us.
 
@@ -19,9 +18,9 @@ Eyinsan Odugba publishes Dawnslate. Our address is PO Box 56001, Atlanta, GA 303
 
 ## Information stored on your device
 
-Everything you record stays in Dawnslate’s storage on your device, protected by your device’s security. This can include: names of the people you teach and of their parents or guardians, the language a parent prefers, lesson dates and times, attendance, what you covered, new words, homework and whether it was done, skills practised, lesson packages, your own name as shown on parent cards, and your settings. Your device’s own backup (for example iCloud Backup or Android backup), if you use it, may include this data under your own account.
+Everything you record stays in Dawnslate’s storage on your device, protected by your device’s security. This can include: names of the people you teach and of their parents or guardians, the language a parent prefers, lesson dates and times, attendance, what you covered, new words, homework and whether it was done, skills practised, lesson packages, lesson prices and the payments you record, cancellations, your own name as shown on parent cards, and your settings. Your device’s own backup (for example iCloud Backup or Android backup), if you use it, may include this data under your own account.
 
-You can export a backup file at any time, and you can erase everything Dawnslate stores on the device in Settings › Privacy & security › Erase everything on this device.
+You can export a backup file at any time (optionally locked with a passcode only you know), and you can erase everything Dawnslate stores on the device in Settings › Privacy & security › Erase everything on this device.
 
 ## Sign-in
 
@@ -33,13 +32,14 @@ You can export a backup file at any time, and you can erase everything Dawnslate
 ## Information that leaves your device — only when you choose
 
 - Sync: when it’s on, your journal is copied to your iCloud Drive or Google Drive, in a private app folder of your own account, and read back to keep your devices in step. Apple or Google stores it under their privacy policies. We cannot see it.
-- Parent cards and reports: when you tap Send, the text you see is handed to your device’s share sheet, and goes only to the app and the people you pick.
-- Backups: a backup file you export goes only where you save or send it. It contains your journal in readable form, so keep it somewhere safe.
+- Parent cards, progress reports and invoices: when you tap Send or share a PDF, the card or file is made on your device and handed to your device’s share sheet. It goes only to the app and the people you pick.
+- Backups: a backup file you export goes only where you save or send it. A plain backup is readable, so keep it somewhere safe; a locked backup is encrypted with your passcode (XChaCha20-Poly1305 with a scrypt key) and can’t be read without it — we can’t recover a forgotten passcode.
 
 ## Permissions the app asks for
 
 - Face ID, Touch ID or fingerprint (optional app lock): your device checks your face or fingerprint itself; Dawnslate only learns whether the check passed. Biometric data never reaches the app or us.
 - Age range (iPhone): where a US state’s app-store law applies, the app asks Apple to share your age range (for example “18 or over”, never your birthday). It is used only to check the minimum age in our Terms, stays on your device, and is never sent to us.
+- Microphone and speech recognition (optional dictation): only after you tap the microphone button on a note, until it stops listening. Your speech is turned into text by your phone’s own on-device recognizer; Dawnslate asks the phone to keep recognition offline, never records or stores the audio, and never sends it to us. If your phone can’t recognise speech offline, dictation is not offered.
 - Files: only the backup file you pick when restoring.
 
 ## Information we receive
@@ -78,7 +78,8 @@ Because your journal stays with you, most of these rights are things you can do 
 - United States (California CCPA/CPRA, Virginia, Colorado, Connecticut, Utah, Texas, Oregon and other state laws): the right to know, delete, correct and opt out. We don’t sell or share personal information, use it for targeted advertising, or use sensitive personal information to infer anything about you.
 - Children’s data (US COPPA and similar laws): the app is not directed to children, and we collect no information from or about them.
 - China (Personal Information Protection Law): you may access, copy, correct, delete and withdraw consent, and ask us to explain our handling. We don’t receive your journal, so no personal information about you or your students is transferred out of China by us. If you sync, your data goes to the cloud account you choose under its own terms.
-- Brazil (LGPD), Canada (PIPEDA and Québec Law 25), Japan (APPI), South Korea (PIPA), India (DPDP Act 2023), Nigeria (NDPA 2023), South Africa (POPIA), Kenya (Data Protection Act), Singapore (PDPA), Australia (Privacy Act) and other laws: you have the rights those laws give you, and we will honour them for the information we hold.
+- Hong Kong (Personal Data (Privacy) Ordinance), Macau (Personal Data Protection Act) and Taiwan (Personal Data Protection Act): you may access and correct the information we hold about you and ask us to stop using it.
+- Brazil (LGPD), Canada (PIPEDA and Québec Law 25), Switzerland (FADP), Japan (APPI), South Korea (PIPA), India (DPDP Act 2023), Indonesia (PDP Law), Vietnam (Personal Data Protection Law), Thailand (PDPA), Malaysia (PDPA), the Philippines (Data Privacy Act), Singapore (PDPA), Australia (Privacy Act), New Zealand (Privacy Act 2020), Nigeria (NDPA 2023), South Africa (POPIA), Kenya (Data Protection Act), Saudi Arabia (PDPL), the United Arab Emirates (PDPL), Türkiye (KVKK), Israel (Privacy Protection Law), Mexico (LFPDPPP), Argentina (Law 25,326) and other laws: you have the rights those laws give you, and we will honour them for the information we hold.
 - Automated decisions: we make none about you or your students.
 
 ## Changes to this policy

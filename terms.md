@@ -1,6 +1,6 @@
 # Terms of Use
 
-_Effective 3 November 2026. The agreement between you and Eyinsan Odugba for using Dawnslate._
+_Effective 4 November 2026. The agreement between you and Eyinsan Odugba for using Dawnslate._
 
 These Terms of Use (“Terms”) are an agreement between you and Eyinsan Odugba (“we”, “us”, “our”), the publisher of the Dawnslate app (“Dawnslate” or the “app”). By tapping “Agree and continue”, or by using the app, you agree to these Terms. If you don’t agree, don’t use the app. Our Privacy Policy and Student Data Notice explain how information is handled and are part of these Terms.
 
@@ -55,7 +55,7 @@ Dawnslate works with services run by other companies: Apple or Google (the app s
 
 ## 11. No warranty
 
-To the extent the law allows, Dawnslate is provided “as is” and “as available”, without warranties of any kind, express or implied, including fitness for a particular purpose, accuracy and non-infringement. Summaries, counts, packages, skill maps and suggestions are aids, not professional advice; check important records yourself.
+To the extent the law allows, Dawnslate is provided “as is” and “as available”, without warranties of any kind, express or implied, including fitness for a particular purpose, accuracy and non-infringement. Summaries, counts, packages, balances, skill maps, reports, invoices and suggestions are aids, not professional, tax or accounting advice; check important records yourself. Invoices and payment records are your own records: you are responsible for meeting the invoicing and tax rules where you work. Dawnslate does not process payments.
 
 ## 12. Limitation of liability
 
